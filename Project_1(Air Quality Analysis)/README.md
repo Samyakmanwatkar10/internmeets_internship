@@ -1,3 +1,4 @@
+**Air Quality Analysis**
 
 1. Importing Libraries and Loading the Dataset:
 The code starts by importing essential libraries for data analysis and visualization. `pandas` is used for handling and manipulating data, `numpy` provides support for numerical operations, `matplotlib.pyplot` is utilized for creating various plots, and `seaborn` offers advanced statistical visualizations. The dataset is then loaded from an Excel file (`AirQualityUCI.xlsx`) into a pandas DataFrame named `df`. This step is followed by displaying the first few rows of the DataFrame using `df.head()`, along with basic information about the dataset such as column names, data types, and non-null counts using `df.info()`. Summary statistics for the numerical columns are obtained with `df.describe()`, providing insights into the data's central tendencies and dispersion.
