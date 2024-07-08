@@ -1,4 +1,4 @@
-Insurance Dataset Analysis and Modeling
+**Insurance Dataset Analysis and Modeling**
 
 This Python notebook performs a comprehensive data science workflow on the 'insurance.csv' dataset, which contains data on over 1500 customers. The dataset includes information such as age, sex, region, smoker status, and more. The aim is to explore the data, preprocess it, visualize various aspects, and build predictive models to analyze insurance costs.
 
